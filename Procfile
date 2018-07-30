@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar vainoracha-user-manager-web/target/vainoracha-user-manager*.jar
